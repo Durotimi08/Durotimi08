@@ -27,7 +27,7 @@
 ![NextJS](https://img.shields.io/badge/NextJs-000000?style=for-the-badge&logo=react-js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/NodeJs-008000?style=for-the-badge&logo=node-js&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![php](https://img.shields.io/badge/php-800080?style=for-the-badge&logo=typescript&logoColor=white)
+![php](https://img.shields.io/badge/php-800080?style=for-the-badge&logo=php&logoColor=white)
 ![Mysql](https://img.shields.io/badge/mysql-AA4A44?style=for-the-badge&logo=mysql&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
