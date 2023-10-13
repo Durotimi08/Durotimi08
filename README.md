@@ -1,4 +1,4 @@
- <h1 style='align: center;'>  Hi, I’m Ibrahim oluwadrotimi 👋 </h2>
+<h1 style='align: center;'>  Hi, I’m Ibrahim oluwadrotimi 👋 </h2>
  
 -    I am a full stack web developer
 - 👀 I’m interested in web development and data science 
@@ -21,14 +21,14 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Typescript](https://img.shields.io/badge/-Typescript-0000FF?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-0000FF?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![ReactJS](https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=reactjs&logoColor=white)
 ![NextJS](https://img.shields.io/badge/NextJs-000000?style=for-the-badge&logo=reactjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/NodeJs-008000?style=for-the-badge&logo=reactjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![php](https://img.shields.io/badge/php-800080?style=for-the-badge&logo=npm&logoColor=white)
-![Mysql](https://img.shields.io/badge/mysql-AA4A44?style=for-the-badge&logo=npm&logoColor=white)
+![php](https://img.shields.io/badge/php-800080?style=for-the-badge&logo=typescript&logoColor=white)
+![Mysql](https://img.shields.io/badge/mysql-AA4A44?style=for-the-badge&logo=mysql&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
