@@ -27,16 +27,16 @@
   <a href="https://skillicons.dev">
       <!-- first row -->
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cc#%2Cjavascript%2Cpr%2Cexpress%2Cstyledcomponents%2Cnextjs%2Cprisma&theme=dark" />
-<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cc#%2Cjavascript%2Cpr%2Cexpress%2Cstyledcomponents%2Cnextjs%2Cprisma&theme=light" />
-          <img src="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cc#%2Cjavascript%2Cpr%2Cexpress%2Cstyledcomponents%2Cnextjs%2Cprisma&theme=light" alt="skills - 1" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cc#%2Cjavascript%2Cexpress%2Cstyledcomponents%2Cnextjs%2Cprisma&theme=dark" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cc#%2Cjavascript%2Cexpress%2Cstyledcomponents%2Cnextjs%2Cprisma&theme=light" />
+          <img src="https://skillicons.dev/icons?i=git%2Creact%2Cnodejs%2Cgithub%2Cpython%2Cc#%2Cjavascript%2Cexpress%2Cstyledcomponents%2Cnextjs%2Cprisma&theme=light" alt="skills - 1" />
         </picture>
           <br />
           <!-- second row -->
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwindcss%2Cpostgresql%2Cmysql%2Cdjango%2Chtml%2Credux%2Cdocker%2Cvscode%2Cnetlify%2Cfigma&theme=dark" />
-            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=tailwindcss%2Cpostgresqls%2Cmysql%2Cdjango%2Chtml%2Credux%2Cdocker%2Cvscode%2Cnetlify%2Cfigma&theme=light" />
-            <img src=https://skillicons.dev/icons?i=tailwindcss%2Cpostgresql%2Cmysql%2Cdjango%2Chtml%2Credux%2Cdocker%2Cvscode%2Cnetlify%2Cfigma&theme=light" alt="skills - 2" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwindcss%2Ctypescript%2Cmysql%2Cdjango%2Chtml%2Credux%2Cdocker%2Cvscode%2Cnetlify%2Cfigma&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=tailwindcss%2Ctypescript%2Cmysql%2Cdjango%2Chtml%2Credux%2Cdocker%2Cvscode%2Cnetlify%2Cfigma&theme=light" />
+            <img src=https://skillicons.dev/icons?i=tailwindcss%2Ctypescript%2Cmysql%2Cdjango%2Chtml%2Credux%2Cdocker%2Cvscode%2Cnetlify%2Cfigma&theme=light" alt="skills - 2" />
         </picture>
 
   </a>
@@ -54,21 +54,6 @@
         </picture>
   </a>
 </p>
-<hr />
-
-<!-- snake graph -->
-<div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Durotimi08/Durotimi08/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/Durotimi08/Durotimi08/blob/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://github.com/Durotim08/Durotimi08/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
-  <br />
-  <br />
-  <br />
-</div>
 
   <hr />
 
