@@ -2,7 +2,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=Durotimi08">
 
 <p align="center">
-  💻 I love to learn new technologies and frameworks.
   <br />
   🧑‍💼 I’m currently a freelancer working as a full-stack developer.
   <br />
@@ -35,9 +34,9 @@
           <br />
           <!-- second row -->
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwindcss%2Cpostgress%2Cmysql%2Cdjango%2Chtml%2Credux%2Cdocker%2Cvscode%2Cnetlify%2Cfigma&theme=dark" />
-            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=tailwindcss%2Cpostgress%2Cmysql%2Cdjango%2Chtml%2Credux%2Cdocker%2Cvscode%2Cnetlify%2Cfigma&theme=light" />
-            <img src=https://skillicons.dev/icons?i=tailwindcss%2Cpostgress%2Cmysql%2Cdjango%2Chtml%2Credux%2Cdocker%2Cvscode%2Cnetlify%2Cfigma&theme=light" alt="skills - 2" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwindcss%2Cpostgresql%2Cmysql%2Cdjango%2Chtml%2Credux%2Cdocker%2Cvscode%2Cnetlify%2Cfigma&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=tailwindcss%2Cpostgresqls%2Cmysql%2Cdjango%2Chtml%2Credux%2Cdocker%2Cvscode%2Cnetlify%2Cfigma&theme=light" />
+            <img src=https://skillicons.dev/icons?i=tailwindcss%2Cpostgresql%2Cmysql%2Cdjango%2Chtml%2Credux%2Cdocker%2Cvscode%2Cnetlify%2Cfigma&theme=light" alt="skills - 2" />
         </picture>
 
   </a>
