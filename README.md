@@ -8,7 +8,7 @@
 </p>
 
 <!-- social handles -->
-<div align="center"> 
+<div align="center" style="display: flex;"> 
 <!-- instagram -->
   <a href="https://" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <!-- twitter -->
