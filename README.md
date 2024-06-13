@@ -1,18 +1,9 @@
 <h1 style='align: center;'>  Hi, I’m Ibrahim oluwadrotimi 👋 </h2>
 <img align="right" src="https://komarev.com/ghpvc/?username=Durotimi08">
 
-<p align="center">
-  <br />
-  🧑‍💼 I’m currently a freelancer working as a full-stack developer.
-  <br />
-</p>
 
 <!-- social handles -->
 <div align="center" style="display: flex;"> 
-<!-- instagram -->
-  <a href="https://" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <!-- twitter -->
-  <a href="https://twitter.com/psy_no1" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
   <!-- gmail -->
   <a href = "mailto:ibrahimdurotimi1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!-- linkedin -->
