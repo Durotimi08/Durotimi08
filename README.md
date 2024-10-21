@@ -1,4 +1,4 @@
-<h1 style='align: center;'>  Hi, I’m Ibrahim oluwadrotimi 👋 </h2>
+<h1 style='align: center;'>  Hi, 👋 </h2>
 <img align="right" src="https://komarev.com/ghpvc/?username=Durotimi08">
 
 
